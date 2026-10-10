@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sony-xm5",
+    "brand": "Sony",
+    "model": "WH-1000XM5",
+    "name": "Sony WH-1000XM5 Noise Canceling Headphones",
+    "category": "Headphones",
+    "variant": "Black",
+    "offers": [
+      {
+        "retailer": "Best Buy",
+        "price": 329.99,
+        "shipping": 0
+      },
+      {
+        "retailer": "Walmart",
+        "price": 309,
+        "shipping": 7.99
+      },
+      {
+        "retailer": "Target",
+        "price": 339.99,
+        "shipping": 0
+      }
+    ]
+  },
+  {
+    "id": "airpods-pro2",
+    "brand": "Apple",
+    "model": "MTJV3AM/A",
+    "name": "Apple AirPods Pro (2nd Generation USB-C)",
+    "category": "Earbuds",
+    "variant": "White",
+    "offers": [
+      {
+        "retailer": "Target",
+        "price": 199.99,
+        "shipping": 0
+      },
+      {
+        "retailer": "Best Buy",
+        "price": 189.99,
+        "shipping": 0
+      },
+      {
+        "retailer": "Walmart",
+        "price": 204.99,
+        "shipping": 0
+      }
+    ]
+  },
+  {
+    "id": "switch-oled",
+    "brand": "Nintendo",
+    "model": "HEG-001",
+    "name": "Nintendo Switch OLED Console",
+    "category": "Gaming",
+    "variant": "White",
+    "offers": [
+      {
+        "retailer": "Walmart",
+        "price": 339,
+        "shipping": 0
+      },
+      {
+        "retailer": "Target",
+        "price": 349.99,
+        "shipping": 0
+      }
+    ]
+  },
+  {
+    "id": "samsung-990",
+    "brand": "Samsung",
+    "model": "MZ-V9P2T0B/AM",
+    "name": "Samsung 990 PRO 2TB SSD",
+    "category": "Storage",
+    "variant": "2TB no heatsink",
+    "offers": [
+      {
+        "retailer": "Best Buy",
+        "price": 169.99,
+        "shipping": 0
+      },
+      {
+        "retailer": "Walmart",
+        "price": 162.49,
+        "shipping": 8.99
+      }
+    ]
+  }
+]
